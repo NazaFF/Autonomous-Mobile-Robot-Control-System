@@ -321,7 +321,7 @@ This project is licensed under the MIT License.
 
 ---
 
-# Author
+# Author's
 
 **Tomás Ferreira**
 **Adriana Pires**
@@ -338,3 +338,9 @@ Electrical & Telecommunications Engineers
 - Industry 4.0
 
 Feel free to explore my other engineering projects and connect with me on LinkedIn.
+
+## Contact
+- Email: ferreiratomas994@gmail.com
+- Outlkook tomasff52@ua.pt
+- LinkedIn: (https://www.linkedin.com/in/tomas-ferreira-52635a2b8/?isSelfProfile=true)
+
