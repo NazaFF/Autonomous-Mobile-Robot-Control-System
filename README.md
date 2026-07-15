@@ -233,25 +233,6 @@ A dedicated PCB was designed using Autodesk Eagle to improve:
 
 ---
 
-# Repository Structure
-
-```text
-Autonomous-Mobile-Robot-Platform
-
-│
-├── README.md
-├── documentation
-├── firmware
-├── eagle
-├── images
-├── videos
-├── schematics
-├── results
-└── LICENSE
-```
-
----
-
 # Results
 
 The final platform successfully demonstrates:
